@@ -1,0 +1,62 @@
+[
+    {
+        "pageName": "page-one",
+        "themeColor": "white",
+        "hasSecondaryLink": false,
+        "secondaryLink": {},
+        "hasVideo": true,
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "image": "",
+        "sourceSet": "",
+        "header": "Lorem ipsum dolor",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros.",
+        "hasCarousel": false,
+        "carousel": []
+    },
+    {
+        "pageName": "page-two",
+        "themeColor": "black",
+        "hasSecondaryLink": true,
+        "secondaryLink": {
+            "link": "https://developer.mozilla.org/en-US/",
+            "text": "discover more"
+        },
+        "hasVideo": false,
+        "video": "",
+        "image": {
+            "desktop": "../assets/images/img-1920x1200.jpg",
+            "tablet": "../assets/images/img-1280x800.jpg",
+            "mobile": "../assets/images/img-800x368.jpg"
+        },
+        "sourceSet": "",
+        "header": "donec nec justo",
+        "description": "",
+        "hasCarousel": true,
+        "carousel": [
+            {
+                "title": "Lorem ipsum #1",
+                "text": "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci."
+            },
+            {
+                "title": "Lorem ipsum #2",
+                "text": "Aenean dignissim pellentesque felis sed egestas, ante et vulputate volutpat."
+            },
+            {
+                "title": "Lorem ipsum #3",
+                "text": "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci."
+            },
+            {
+                "title": "Lorem ipsum #4",
+                "text": "Aenean dignissim pellentesque felis sed egestas, ante et vulputate volutpat."
+            },
+            {
+                "title": "Lorem ipsum #5",
+                "text": "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci."
+            },
+            {
+                "title": "Lorem ipsum #6",
+                "text": "Aenean dignissim pellentesque felis sed egestas, ante et vulputate volutpat."
+            }
+        ]
+    }
+]
