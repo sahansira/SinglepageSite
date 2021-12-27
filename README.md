@@ -1,6 +1,8 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Setup
+1. Download and unzip or Clone the project file from github ( https://github.com/sahansira/SinglepageSite ) to your development location.
+2. Open folder in cmd or powershell.
+3. Run npm install. This will install all the dependencies with node modules. ( Please make sure the node version of your computer is higher than 14.17.5)
+4. Run npm start once all the dependencies are installed. This will compile the solution and will open in a browser window. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
